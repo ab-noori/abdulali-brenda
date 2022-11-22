@@ -1,0 +1,14 @@
+#img-div {
+    width: auto;
+    height: auto;
+    text-align: center;
+    object-fit: fill;
+    margin: auto;
+    border: 5px solid red;
+  }
+  
+  #image{
+    max-width: 100%;
+    height: auto;
+    display:block;
+  }

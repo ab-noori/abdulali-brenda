@@ -4,11 +4,32 @@
     text-align: center;
     object-fit: fill;
     margin: auto;
-    border: 5px solid red;
   }
   
   #image{
     max-width: 100%;
     height: auto;
     display:block;
+  }
+  .top-section{
+    font-size:20px;
+  }
+  span{
+    color:#800000;
+    font-size:30px;
+    font-weight:bold;
+  }
+  #img-caption{
+    font-size:30px;
+    font-weight:bold;
+    color: #ffffff;
+    border:10px solid #afeeee;
+    margin:auto;
+    font-family:Arial, Helvetica, sans-serif;
+
+  }
+  body{
+    background:#000000;
+    color:#f5deb3;
+    font-size:25px;
   }
